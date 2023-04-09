@@ -1,6 +1,6 @@
 import requests
 from requests.exceptions import RequestException
-
+__author__ = "Hop"
 
 class GetCode:
     def __init__(self, key):
