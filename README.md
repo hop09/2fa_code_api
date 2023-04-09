@@ -30,3 +30,6 @@ code = GetCode(key).apply()
 
 print(f"The 2FA TOTP code is: {code}")
 ```
+Simply replace "12345" with your actual secret key.
+
+
